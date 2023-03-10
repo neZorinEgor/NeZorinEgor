@@ -9,4 +9,5 @@ print("Hello, World!")
 
 
 list
+
 :   termin 1
