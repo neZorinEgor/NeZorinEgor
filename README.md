@@ -2,11 +2,11 @@
 
 <span align="start">20 years old, a student at ISU in software development</span>
 
-Organization with [homework](https://github.com/Home-Work-ISU-neZorinEgor)
+👨‍🏫 Organization with [homework](https://github.com/Home-Work-ISU-neZorinEgor)
 
 ### About Me:
-- 🛰️ I love learning new technologies and diving deep into the ones I've already mastered.
-- 📈 I'm interested in the field of image processing and data analysis.
+- [x] 🛰️ I love learning new technologies and diving deep into the ones I've already mastered.
+- [x] 📈 I'm interested in the field of image processing and data analysis.
 
 
 ### Technology stack:
