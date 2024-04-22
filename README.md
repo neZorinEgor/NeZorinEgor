@@ -5,8 +5,8 @@
 👨‍🏫 Organization with [homework](https://github.com/Home-Work-ISU-neZorinEgor)
 
 ### About Me:
-- [x] 🛰️ I love learning new technologies and diving deep into the ones I've already mastered.
-- [x] 📈 I'm interested in the field of image processing and data analysis.
+- [x] 🌐 Passionate about networking and DevOps architecture
+- [x] ❤️‍🔥 RESTful, reverse proxy, Docker, Сache is awesome 
 
 
 ### Technology stack:
@@ -25,6 +25,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="redis" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 
