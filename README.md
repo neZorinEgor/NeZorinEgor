@@ -6,7 +6,7 @@
 
 ### About Me:
 - [x] 🌐 Passionate about networking and DevOps architecture
-- [x] ❤️‍🔥 RESTful, GraphQL, reverse proxy, Docker, Сache is awesome...
+- [x] ❤️‍🔥 RESTful, GraphQL, reverse proxy, Docker, Сache, ASGI is awesome...
 
 
 ### Technology stack:
