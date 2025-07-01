@@ -1,14 +1,9 @@
 <h2 align="start">Hello, I'm Egor👋</h2>
 
-<span align="start">21 years old, a student at ISU in software development, data scientist</span>
-
-👨‍🏫 Organization with [homework](https://github.com/Home-Work-ISU-neZorinEgor)
-- [x] 🌐 Passionate about data science, backend, GUI
-- [x] ❤️‍🔥 RESTful, GRPC, Proxy, Docker, Brokers, Сache, BigData, CV, AI is awesome...
-
+<span align="start">22 years old, MLOps, bachelor of computer science</span>
+- [x] 🌐 Passionate about data science, backend, architecture, machine learning, infrastructure
 
 ### Technology stack:
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 
