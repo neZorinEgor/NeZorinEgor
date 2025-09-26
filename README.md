@@ -17,6 +17,7 @@
 
 #### 🌐 `Backend & API`
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>&nbsp; 
+<img src="./asserts/faststream.svg" title="FastStream" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SqlAlchemy" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>&nbsp; 
