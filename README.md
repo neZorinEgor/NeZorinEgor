@@ -1,6 +1,6 @@
 <h2 align="start">Hello, I'm Egor👋</h2>
 
-<span align="start">22 years old, MLOps, bachelor of computer science</span>
+<span align="start">22 years old, ML-engineer</span>
 - [x] 🌐 Passionate about data science, backend, architecture, machine learning, infrastructure
 
 ### Technology stack:
